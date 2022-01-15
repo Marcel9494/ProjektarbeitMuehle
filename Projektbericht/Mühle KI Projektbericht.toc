@@ -1,0 +1,52 @@
+\select@language {english}
+\select@language {ngerman}
+\contentsline {section}{Literaturverzeichnis}{II}{chapter*.1}
+\contentsline {section}{Abbildungsverzeichnis}{III}{chapter*.2}
+\contentsline {section}{Tabellenverzeichnis}{IV}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Einleitung}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Das Brettspiel M\IeC {\"u}hle}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Eingesetzte Software und Programmiersprache}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Programmiersprache Java}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}GUI-Toolkit Swing}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Eclipse}{4}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Inkscape}{4}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Github}{4}{subsection.1.2.5}
+\contentsline {section}{\numberline {1.3}Was ist k\IeC {\"u}nstliche Intelligenz?}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Einsatzgebiete von k\IeC {\"u}nstlicher Intelligenz}{6}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Gesichtserkennung}{6}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Autonomes Fahren}{6}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Robotik}{7}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}Computerspiele}{7}{subsection.1.4.4}
+\contentsline {chapter}{\numberline {2}Aufgabenstellung}{8}{chapter.2}
+\contentsline {chapter}{\numberline {3}Anforderungsanalyse}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Aufbau von M\IeC {\"u}hle}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Grundlegende Logik}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Setzphase}{10}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Verschiebenphase}{10}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Springenphase}{10}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}K\IeC {\"u}nstliche Intelligenz}{10}{section.3.3}
+\contentsline {section}{\numberline {3.4}Abgrenzung}{11}{section.3.4}
+\contentsline {chapter}{\numberline {4}Implementierung}{12}{chapter.4}
+\contentsline {section}{\numberline {4.1}Datenstrukturen}{12}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Felder}{12}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Nachbarschaftsfelder}{12}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Linien}{13}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Spielsteine}{14}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Spielz\IeC {\"u}ge}{14}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Spieler vs. Spieler}{15}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Setzphase}{15}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Verschiebenphase}{16}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Springenphase}{19}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Minimax-Algorithmus}{20}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Einf\IeC {\"u}hrung}{20}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Bewertungsfunktion}{20}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Suchbaum Beispiel}{20}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Max Methode}{20}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Min Methode}{21}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}M\IeC {\"u}hle Bewertungsfunktion}{23}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Rechenaufwand}{23}{subsection.4.3.7}
+\contentsline {chapter}{\numberline {5}Bedienungsanleitung}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}Programm Ausf\IeC {\"u}hrung}{25}{section.5.1}
+\contentsline {section}{\numberline {5.2}Startbildschirm}{26}{section.5.2}
+\contentsline {section}{\numberline {5.3}M\IeC {\"u}hle Spielbewegungen}{26}{section.5.3}
+\contentsline {chapter}{\numberline {6}Fazit und Ausblick}{28}{chapter.6}

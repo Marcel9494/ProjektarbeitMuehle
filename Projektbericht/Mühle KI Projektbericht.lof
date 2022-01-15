@@ -1,0 +1,28 @@
+\select@language {english}
+\select@language {ngerman}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 1.1}{\ignorespaces M\IeC {\"u}hle Spielbrett}}{2}{figure.caption.5}
+\contentsline {figure}{\numberline {\relax 1.2}{\ignorespaces Gebildete wei\IeC {\ss }e M\IeC {\"u}hle}}{3}{figure.caption.6}
+\contentsline {figure}{\numberline {\relax 1.3}{\ignorespaces Autonomes Fahrzeug von Google}}{6}{figure.caption.7}
+\contentsline {figure}{\numberline {\relax 1.4}{\ignorespaces Hiroshi Ishiguros (rechts) und sein Roboter (links)}}{7}{figure.caption.8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 3.1}{\ignorespaces Aufbau M\IeC {\"u}hle Spielbrett}}{9}{figure.caption.9}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 4.1}{\ignorespaces Datenstruktur f\IeC {\"u}r Felder}}{12}{figure.caption.10}
+\contentsline {figure}{\numberline {\relax 4.2}{\ignorespaces Datenstruktur f\IeC {\"u}r Nachbarschaftsfelder}}{13}{figure.caption.11}
+\contentsline {figure}{\numberline {\relax 4.3}{\ignorespaces Datenstruktur f\IeC {\"u}r Linien}}{13}{figure.caption.12}
+\contentsline {figure}{\numberline {\relax 4.4}{\ignorespaces 1. Phase Setzphase Implementierung}}{15}{figure.caption.13}
+\contentsline {figure}{\numberline {\relax 4.5}{\ignorespaces Remove Gamestone Methode}}{16}{figure.caption.14}
+\contentsline {figure}{\numberline {\relax 4.6}{\ignorespaces 2. Phase Verschiebenphase Implementierung Teil 1}}{17}{figure.caption.15}
+\contentsline {figure}{\numberline {\relax 4.7}{\ignorespaces 2. Phase Verschiebenphase Implementierung Teil 2}}{18}{figure.caption.16}
+\contentsline {figure}{\numberline {\relax 4.8}{\ignorespaces Move Gamestone Methode}}{18}{figure.caption.17}
+\contentsline {figure}{\numberline {\relax 4.9}{\ignorespaces 3. Phase Springenphase Implementierung}}{19}{figure.caption.18}
+\contentsline {figure}{\numberline {\relax 4.10}{\ignorespaces Suchbaum Beispiel}}{21}{figure.caption.19}
+\contentsline {figure}{\numberline {\relax 4.11}{\ignorespaces Max Methode Implementierung}}{22}{figure.caption.20}
+\contentsline {figure}{\numberline {\relax 4.12}{\ignorespaces Min Methode Implementierung}}{22}{figure.caption.21}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {\relax 5.1}{\ignorespaces M\IeC {\"u}hle Startbildschirm}}{26}{figure.caption.24}
+\contentsline {figure}{\numberline {\relax 5.2}{\ignorespaces M\IeC {\"u}hle Spielbildschirm}}{27}{figure.caption.25}
+\contentsline {figure}{\numberline {\relax 5.3}{\ignorespaces M\IeC {\"u}hle Endbildschirm}}{27}{figure.caption.26}
+\addvspace {10\p@ }
